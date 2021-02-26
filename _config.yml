@@ -2,8 +2,8 @@ title: Manifesto on Resource Reuse in Interactive Information Retrieval
 #email: your-email@example.com
 description: >-
   Manifesto on Resource Reuse in Interactive Information Retrieval
-baseurl: ""
-url: ""
+baseurl: "/manifesto"
+url: "https://biirrr.github.io"
 github_username:  biirrr
 
 # Build settings
